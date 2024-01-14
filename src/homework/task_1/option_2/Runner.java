@@ -7,10 +7,10 @@ import homework.task_1.option_2.imitation_morning.ReadingNews;
 public class Runner {
     public static void main(String[] args) {
 
-        ReadingNews readingNews = new ReadingNews();
+        new ReadingNews();
 
-        Breakfast breakfast = new Breakfast();
+        new Breakfast();
 
-        Coffee coffee = new Coffee();
+        new Coffee();
     }
 }
