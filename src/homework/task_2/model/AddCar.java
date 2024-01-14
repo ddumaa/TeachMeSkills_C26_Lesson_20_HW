@@ -1,4 +1,6 @@
-package homework.task_2;
+package homework.task_2.model;
+
+import homework.task_2.model.ServiceStation;
 
 public class AddCar implements Runnable {
     private ServiceStation serviceStation;

@@ -1,4 +1,6 @@
-package homework.task_2;
+package homework.task_2.model;
+
+import homework.task_2.utils.Consts;
 
 public class ServiceStation {
     private int car = 0;
