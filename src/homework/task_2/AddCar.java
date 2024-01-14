@@ -1,7 +1,5 @@
 package homework.task_2;
 
-import static java.lang.Thread.sleep;
-
 public class AddCar implements Runnable {
     private ServiceStation serviceStation;
     public AddCar(ServiceStation serviceStation) {
